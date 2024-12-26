@@ -15,12 +15,6 @@ This project is a Netflix clone built to get myself acquainted with React and Fi
 - Firebase
 - CSS
 
-  npm start
-
-  ```
-
-  ```
-
 ## Usage
 
 - Sign up or log in with your Firebase account.
